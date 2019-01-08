@@ -1,0 +1,10 @@
+You will need to export a runnable jar file to run this code
+
+Eclipse Steps:
+1. File
+2. Export
+3. Java > Runnable jar File --- Click Next
+4. Choose java application
+5. export destination
+6. extract required libraries into generated jar
+7. click finish
