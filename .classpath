@@ -29,10 +29,9 @@
 	<classpathentry kind="lib" path="C:/Users/quillan.ogle/eclipse-workspace/auto/Jar Files/libs/httpcore-4.4.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/quillan.ogle/eclipse-workspace/auto/Jar Files/libs/okhttp-3.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/quillan.ogle/eclipse-workspace/auto/Jar Files/libs/okio-1.13.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/quillan.ogle/Downloads/org.json.jar.zip"/>
-	<classpathentry kind="lib" path="C:/Users/quillan.ogle/Downloads/org.json.jar/org.json.jar"/>
-	<classpathentry kind="lib" path="C:/Users/quillan.ogle/Downloads/json-lib-2.4-jdk15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/quillan.ogle/Downloads/java-json.jar/java-json.jar"/>
-	<classpathentry kind="lib" path="C:/Users/quillan.ogle/Downloads/json-simple-1.1.jar/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/quillan.ogle/eclipse-workspace/auto/Jar Files/libs/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/quillan.ogle/eclipse-workspace/auto/Jar Files/libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/quillan.ogle/eclipse-workspace/auto/Jar Files/libs/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/quillan.ogle/eclipse-workspace/auto/Jar Files/libs/json-simple-1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

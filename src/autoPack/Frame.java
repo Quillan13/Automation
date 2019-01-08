@@ -3,15 +3,21 @@ package autoPack;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
+
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.UIManager;
 
+import org.json.JSONException;
+import org.json.simple.parser.ParseException;
+
 
 public class Frame {
 
-	public static void main(String[] args) throws InterruptedException {
-
+	public static void main(String[] args) throws Exception {
+		creTest ct = new creTest();
+		ct.readCre();
 		JFrame frame = new JFrame("My Apps");
 		try { 
 		    UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
